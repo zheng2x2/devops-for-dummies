@@ -1,15 +1,19 @@
-# Agenda
+# DevOps for Dummies
 
-* Automated Testing
-* Docker
-* GitHub Actions
-* Building Our Docker Image
-* Running Our Tests
-* Deployment
-* Local Development
-* Logging
-* Monitoring
+This repository is for use with the [DevOps for Dummies presentation](https://docs.google.com/presentation/d/1EKEJVaD3OaV06xzmqlDJQboVMEYri4rgAx2SYJOAtIo/edit#slide=id.p).
 
-# Automated Testing
+## Prerequisites
 
-If you have your own project, it may be a challenge to follow along. If you don't have your own project, let's build one together briefly.
+* [Python](https://www.python.org/)
+* [CMake](https://cmake.org/)
+
+## Setup
+```shell
+make setup
+```
+
+## Running
+First, run setup. Then
+```shell
+make run
+```
