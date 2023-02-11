@@ -1,0 +1,9 @@
+Dockerfile
+.gitignore
+venv
+build
+__pycache__
+src/devops_for_dummies*
+tests
+.coverage
+htmlcov
